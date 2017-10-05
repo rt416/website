@@ -39,8 +39,9 @@ weight = 5
 +++
 
 ## **Biography**
+I’m a Microsoft Research PhD Scholar in the Department of Computer Science, UCL. I’m supervised by Daniel C. Alexander of the Centre for Medical Image Computing and Dr Antonio Criminisi of Microsoft Research Cambridge.
 
-I started my PhD in Machine Learning under Microsoft Research Scholarship in Oct 2015. I'm supervised by Daniel C. Alexander at  Centre for Medical Image Computing, UCL and Antonio Criminisi at Microsoft Research Cambridge. I am interested in developing machine learning algorithms which are more interpretable and safer to use in the context of medical imaging.
+I am interested in developing high-performance algorithms which are more interpretable and safer to use in medical applications. I also hold passion for designing methods that can cheaply and reliably enhance the quality of medical image data. Our recent work on [Bayesian super-resolution](https://rt416.github.io/publication/biqt-rf/) proposes a method based on probabilistic CNN for enhancing dMR images while providing a reliability metric. 
 
-I have also been working as a consultant for [ThinkSono](https://thinksono.com/) since January 2016.
+I have also had the fortune to work as a technical consultant since January 2016 for a London based start-up, [ThinkSono](https://thinksono.com/), which aims to develop a diagnostic software for detection of Deep Vein Thrombosis (DVT). 
 
