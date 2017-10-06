@@ -39,7 +39,7 @@ weight = 5
 +++
 
 ## **Biography**
-I’m a Microsoft Research PhD Scholar in the Department of Computer Science, UCL. I’m supervised by Daniel C. Alexander of the Centre for Medical Image Computing and Dr Antonio Criminisi of Microsoft Research Cambridge.
+I’m a Microsoft Research PhD Scholar in the Department of Computer Science, UCL. I’m supervised by [Daniel C. Alexander](http://www0.cs.ucl.ac.uk/staff/d.alexander/) of the Centre for Medical Image Computing and [Antonio Criminisi](https://www.microsoft.com/en-us/research/people/antcrim/) of Microsoft Research Cambridge.
 
 I am interested in developing high-performance algorithms which are more interpretable and safer to use in medical applications. I also hold passion for designing methods that can cheaply and reliably enhance the quality of medical image data. Our recent work on [Bayesian super-resolution](https://rt416.github.io/publication/biqt-rf/) proposes a method based on probabilistic CNN for enhancing dMR images while providing a reliability metric. 
 
