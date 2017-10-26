@@ -4,7 +4,7 @@ date = "2017-10-19T00:00:00"
 title = "Exploring Uncertainty in dMRI Super-resolution via Probabilistic CNNs"
 abstract = ""
 abstract_short = ""
-event = "Children's Hospital Boston, Harvard Medical School"
+event = "Boston Children's Hospital, Harvard Medical School"
 event_url = ""
 location = "Massachusetts, US"
 
