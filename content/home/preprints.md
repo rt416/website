@@ -8,10 +8,10 @@ draft = false
 
 title = "Preprints"
 subtitle = ""
-widget = "publications"
+widget = "publications_selected"
 
 # Order that this section will appear in.
-weight = 10
+weight = 15
 
 # List format.
 #   0 = Simple
@@ -20,7 +20,3 @@ weight = 10
 list_format = 2
 +++
 
-
-
-
-*Please see my Research Gate or Google Scholar for the full list!*
