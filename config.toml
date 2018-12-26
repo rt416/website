@@ -194,6 +194,6 @@ defaultContentLanguageInSubdir = false
   languageCode = "en-us"
 
 [header]
-image = "headers/header_1.jpg"
+image = "./content/headers/header_1.jpg"
 caption = "Human brain in the style of Hokusai"
 
