@@ -12,6 +12,7 @@ title = " Adaptive Neural Trees"
 publication_types = ["1"]
 url_dataset = ""
 url_pdf = "pdf/tanno_ants_2018.pdf"
+url_slides = "pdf/ant_slides.pdf"
 
 #[[url_custom]]
 #name = "Poster"
@@ -22,7 +23,9 @@ url_pdf = "pdf/tanno_ants_2018.pdf"
 name = "Link"
 url="https://arxiv.org/abs/1807.06699"
 
-[[social_media]]
-name = "twitter"
+[[url_custom]]
+name = "Twitter"
 url = "https://twitter.com/kailasharul/status/1019736584189612032?lang=en"
+
 +++
+
