@@ -24,8 +24,11 @@ name = "Link"
 url="https://arxiv.org/abs/1807.06699"
 
 [[url_custom]]
+name = "Video"
+url = "https://www.youtube.com/watch?v=v0bv0HTboOg"
+
+[[url_custom]]
 name = "Twitter"
 url = "https://twitter.com/kailasharul/status/1019736584189612032?lang=en"
-
 +++
 
