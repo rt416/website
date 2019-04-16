@@ -38,14 +38,8 @@ weight = 5
 #caption = "Human brain in the style of Hokusai"
 +++
 
-%## **Biography**
 I’m a Microsoft Research PhD Scholar in the Department of Computer Science, UCL, UK. I’m supervised by [Daniel C. Alexander](http://www0.cs.ucl.ac.uk/staff/d.alexander/) of the Centre for Medical Image Computing and [Antonio Criminisi](https://www.microsoft.com/en-us/research/people/antcrim/) of Microsoft Research Cambridge.
 
 My research focuses on developing high-performance machine learning algorithms which are interpretable, robust and safe to use in medical applications. 
-%#I also hold passion for designing methods that can cheaply and reliably enhance the quality of medical image data. Our paper on [Bayesian super-resolution](https://rt416.github.io/publication/biqt-rf/) proposes a method based on probabilistic CNN for enhancing dMR images while providing a reliability metric. 
 
 During my Phd, I have had the fortune to get involved in startups at different stages of maturity. Between Dec 2016 and May 2018, I worked part-time at [ThinkSono](https://thinksono.com/) as one of the starting members, where I co-developed the prototype of a real-time deep-learning based system for detecting deep vein thrombosis in ultra-sound videos. The company was selected by Bayer accelerator in 2017 as one of the [top 4](https://www.bayer.co.uk/en/media/latest-news/bayer-welcomes-new-digital-health-talents-in-2017-grants4apps-accelerator-program-in-berlin.php) digital health start-ups out of >450 applications received across the globe. I subsequently spent the summer of 2018 as a research intern at [Butterfly Network](https://www.butterflynetwork.com/), a NY-based unicorn that develops an intelligent and portable ultra-sound probe. 
-
-%#As a part-time engineer, I helped develop the prototype of a real-time deep-learning based system for detecting deep vein thrombosis in ultra-sound videos. 
-%#I have also had the fortune to work as a technical consultant since January 2016 for a London based start-up, [ThinkSono](https://thinksono.com/), which aims to develop a diagnostic software for detection of Deep Vein Thrombosis (DVT). 
-
