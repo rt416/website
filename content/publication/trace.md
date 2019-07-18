@@ -23,4 +23,8 @@ url_pdf = "pdf/tanno_trace_2019.pdf"
 name = "Link"
 url="https://arxiv.org/abs/1902.03680"
 
+[[url_custom]]
+name = "Video"
+url = "https://youtu.be/fyKoxmy2ouA"
+
 +++
