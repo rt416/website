@@ -20,7 +20,7 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true
 
 [params]
-  name = "Ryutaro Tanno     (丹野　龍太郎)"
+  name = "Ryutaro Tanno &nbsp;(丹野　龍太郎)"
   role = "PhD student in Machine Learning and Medical Imaging"
   organization = "University College London"
   organization_url = ""
@@ -129,10 +129,10 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "mailto:ryutaro.tanno.15@ucl.ac.uk"
 
-#  [[params.social]]
-#    icon = "twitter"
-#    icon_pack = "fa"
-#    link = "//twitter.com/GeorgeCushen"
+  [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "//twitter.com/ryutarot92"
   
   [[params.social]]
    icon = "researchgate"
