@@ -20,7 +20,7 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true
 
 [params]
-  name = "Ryutaro Tanno             (丹野龍太郎)"
+  name = "Ryutaro Tanno"
   role = "PhD student in Machine Learning and Medical Imaging"
   organization = "University College London"
   organization_url = ""
@@ -176,9 +176,14 @@ defaultContentLanguageInSubdir = false
 #  weight = 3
 
 [[menu.main]]
+  name = "Talks"
+  url = "#talks"
+  weight = 4
+
+[[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 4
+  weight = 5
 
 # Taxonomies.
 [taxonomies]
@@ -194,6 +199,6 @@ defaultContentLanguageInSubdir = false
   languageCode = "en-us"
 
 [header]
-image = "content/headers/header_1.jpg"
+image = "header_1.jpg"
 caption = "Human brain in the style of Hokusai"
 
