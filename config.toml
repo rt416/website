@@ -20,7 +20,7 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true
 
 [params]
-  name = "Ryutaro Tanno  (丹野龍太郎)"
+  name = "Ryutaro Tanno             (丹野龍太郎)"
   role = "PhD student in Machine Learning and Medical Imaging"
   organization = "University College London"
   organization_url = ""
