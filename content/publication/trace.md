@@ -11,12 +11,13 @@ publication = "In *CVPR* "
 selected = true
 title = "Learning From Noisy Labels By Regularized Estimation Of Annotator Confusion"
 publication_types = ["1"]
+url_code = "pdf/trace_codes.pdf"
 url_dataset = ""
 url_pdf = "pdf/tanno_trace_2019.pdf"
 
-#[[url_custom]]
-#name = "Poster"
-#url = "pdf/tanno_miccai_2016_poster.pdf"
+[[url_custom]]
+name = "Slides"
+url = "pdf/trace_slides.pdf"
 #url_project = ""
 
 [[url_custom]]

@@ -8,11 +8,12 @@ date = "2019-04-20"
 image = "./../images/ant.png"
 image_preview = "./../images/ant.png"
 math = false
-publication = "In *ICML* "
+publication = "In *ICML*, Oral"
 selected = true
 title = " Adaptive Neural Trees"
 publication_types = ["1"]
 url_dataset = ""
+url_code = "https://github.com/rtanno21609/AdaptiveNeuralTrees"
 url_pdf = "pdf/tanno_ants_2018.pdf"
 url_slides = "pdf/ant_slides.pdf"
 
@@ -30,7 +31,7 @@ name = "Video"
 url = "https://www.youtube.com/watch?v=v0bv0HTboOg"
 
 [[url_custom]]
-name = "Twitter"
-url = "https://twitter.com/kailasharul/status/1019736584189612032?lang=en"
+name = "Video_ICML"
+url = "https://videoken.com/embed/gj208b5MN44?tocitem=13"
 +++
 
