@@ -11,7 +11,7 @@ selected = true
 title = "Stochastic Filter Groups for Multi-Task CNNs: Learning Specialist and Generalist Convolution Kernels"
 publication_types = ["1"]
 url_dataset = ""
-#url_pdf = "pdf/tanno_iccv_2019"
+url_pdf = "pdf/iccv_camera_ready.pdf"
 
 #[[url_custom]]
 #name = "Poster"
