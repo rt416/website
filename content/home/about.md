@@ -38,7 +38,7 @@ weight = 5
 #caption = "Human brain in the style of Hokusai"
 +++
 
-I’m a final year PhD student in the Department of Computer Science at UCL. I’m supervised by [Daniel C. Alexander](http://www0.cs.ucl.ac.uk/staff/d.alexander/) of CMIC UCL and [Antonio Criminisi](https://scholar.google.co.uk/citations?user=YHmzvmMAAAAJ&hl=en) of Amazon. My PhD is funded by [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/).
+I’m a final year PhD student in the Department of Computer Science at UCL. I’m supervised by [Daniel C. Alexander](http://www0.cs.ucl.ac.uk/staff/d.alexander/) at CMIC UCL and [Antonio Criminisi](https://scholar.google.co.uk/citations?user=YHmzvmMAAAAJ&hl=en) at Amazon Cambridge. My PhD is funded by [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/).
 
 My research focuses on developing high-performance machine learning algorithms which are risk-aware, interpretable and robust for safe use in medical applications. 
 
