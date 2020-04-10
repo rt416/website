@@ -21,11 +21,14 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Ryutaro Tanno"
-  role = "Senior Researcher in Machine Learning"
-  organization = "Microsoft Research Cambridge, UK"
+  role = "Senior Researcher in Machine Learning for Healthcare"
+  organization = "Microsoft Research Cambridge"
   organization_url = "https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "pp_2.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  # Diplay a logo in navigation bar rather than title (optional).	
+  # To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
+  logo = "header_1.jpg"
   email = "rytanno@microsoft.com"
   address = "Microsoft Research Cambridge, 21 Station Rd, Cambridge CB1 2FB"
   office_hours = ""
