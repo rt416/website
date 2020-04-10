@@ -6,7 +6,7 @@ date = "2019-07-22"
 image = "./../images/sfg.png"
 image_preview = "./../images/sfg.png"
 math = false
-publication = "*Preprint*: accepted at ICCV as Oral (top ~4%), &ast; equal contributions"
+publication = "In *ICCV* as Oral (top ~4%), &ast; equal contributions"
 selected = true
 title = "Stochastic Filter Groups for Multi-Task CNNs: Learning Specialist and Generalist Convolution Kernels"
 publication_types = ["1"]
@@ -18,12 +18,12 @@ url_pdf = "pdf/iccv_camera_ready.pdf"
 #url = "pdf/tanno_miccai_2016_poster.pdf"
 #url_project = ""
 
-#[[url_custom]]
-#name = "Link"
-#url="https://arxiv.org/abs/1902.03680"
+[[url_custom]]
+name = "Link"
+url="https://arxiv.org/abs/1908.09597"
 
-#[[url_custom]]
-#name = "Video"
-#url = "https://youtu.be/fyKoxmy2ouA"
+[[url_custom]]
+name = "Video"
+url = "https://www.youtube.com/watch?v=9Sx2qWKGzlc&feature=youtu.be&t=3726"
 
 +++
