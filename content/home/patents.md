@@ -7,16 +7,16 @@
 date = 2016-04-20
 draft = false
 
-title = "Selected Publications"
+title = "Patents"
 subtitle = ""
-widget = "publications_selected"
+widget = "patents"
 
 # Order that this section will appear in.
-weight = 15
+weight = 20
 
 # List format.
 #   0 = Simple
 #   1 = Classic
 #   2 = Detailed
-list_format = 2
+list_format = 1
 +++
