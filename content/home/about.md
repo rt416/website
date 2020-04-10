@@ -12,8 +12,8 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+    "Interpretability", 
     "Uncertainty modelling",
-    "Algorithmic safety",
     "Robustness"
   ]
 
@@ -43,7 +43,7 @@ weight = 5
 #caption = "Human brain in the style of Hokusai"
 +++
 
-Hi! My name is Ryutaro, and I’m a researcher at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/). 
+Hi! My name is Ryutaro, and I’m a senior researcher in the Healthcare Intelligence group  at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/). 
 
 My research focuses on developing high-performance machine learning algorithms which are risk-aware, interpretable and robust for safe use in healthcare applications. 
 

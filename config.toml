@@ -21,13 +21,13 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Ryutaro Tanno"
-  role = "PhD student in Machine Learning and Medical Imaging"
-  organization = "University College London"
-  organization_url = ""
+  role = "Senior Researcher in Machine Learning"
+  organization = "Microsoft Research Cambridge, UK"
+  organization_url = "https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "pp_1.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "ryutaro.tanno.15@ucl.ac.uk"
-  address = "University College London, Dept. of Computer Science,  Gower Street, London  WC1E 6BT, UK"
+  avatar = "pp_2.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "rytanno@microsoft.com"
+  address = "Microsoft Research Cambridge, 21 Station Rd, Cambridge CB1 2FB"
   office_hours = ""
   phone = ""
   skype = "ryutaro.tanno"
