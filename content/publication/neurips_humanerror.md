@@ -13,9 +13,9 @@ publication_types = ["1"]
 url_dataset = ""
 url_pdf = "pdf/humanerror_2020.pdf"
 
-#[[url_custom]]
-#name = "Link"
-#url="https://arxiv.org/abs/2007.15124"
+[[url_custom]]
+name = "Link"
+url="https://arxiv.org/abs/2007.15963"
 
 [[url_custom]]
 name = "Code"

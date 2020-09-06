@@ -6,12 +6,12 @@ date = "2020-01-21"
 image = "./../images/uncertainty.png"
 image_preview = "./../images/uncertainty.png"
 math = false
-publication = "*Preprint*: under review at *Neuroimage* "
+publication = "In *Neuroimage* "
 selected = true
 title = "Uncertainty Quantification in Deep Learning for Safer Neuroimage Enhancement"
 publication_types = ["1"]
 url_dataset = ""
-url_pdf = "pdf/tanno_nimg_2019.pdf"
+url_pdf = "pdf/tanno_nimg_2019_3.pdf"
 
 #[[url_custom]]
 #name = "Poster"
