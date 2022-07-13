@@ -2,7 +2,7 @@
 abstract = "Prediction failures of machine learning models often arise from deficiencies in training data, such as incorrect labels, outliers, and selection biases. However, such data points that are responsible for a given failure mode are generally not known a priori, let alone a mechanism for repairing the failure. This work draws on the Bayesian view of continual learning, and develops a generic framework for both, identifying training examples which have given rise to the target failure, and fixing the model through erasing information about them. This framework naturally allows leveraging recent advances in continual learning to this new problem of model repairment, while subsuming the existing works on influence functions and data deletion as specific instances. Experimentally, the proposed approach outperforms the baselines for both identification of detrimental training data and fixing model failures in a generalisable manner."
 abstract_short = " "
 authors = ["Ryutaro Tanno", "Melanie F. Pradier", "Aditya Nori", "Yingzhen Li"]
-date = "2022-04-11"
+date = "2022-07-11"
 image = "./../images/model_repairment_2.jpg"
 image_preview = "./../images/model_repairment_2.jpg"
 math = false
@@ -13,6 +13,9 @@ publication_types = ["1"]
 url_dataset = ""
 url_pdf = "pdf/modelrepairment_preprint_2022.pdf"
 
+[[url_custom]]
+name = "Link"
+url="https://arxiv.org/abs/2207.04806"
 
 
 +++
